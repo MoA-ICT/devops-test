@@ -3,6 +3,5 @@ Testing Repository for the Workshop
 
 ![Logo](https://www.kilimo.go.tz/images/logos/development-gateway-logo.png)
 
-`inline code`
-```python
+```java
 System.out.println("Testing the code block");
